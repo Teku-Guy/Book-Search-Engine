@@ -3,7 +3,7 @@
 ## Description
 UCLA Bootcamp week 21. This is a MERN Stack App built with MongoDB, Express JS, React JS, and Node.js. It includes a RESTful API where the purpose of this project is to refractor the API into a graphql API both fornt end and back end. It also includes
 
-You can preview the [page here]("https://gbook-se-app.herokuapp.com/")
+You can preview the [page here](https://gbook-se-app.herokuapp.com/)
 
 ![img](https://raw.githubusercontent.com/Teku-Guy/Book-Search-Engine/main/demo.gif)
 
