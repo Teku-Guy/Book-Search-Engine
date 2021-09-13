@@ -5,7 +5,7 @@ UCLA Bootcamp week 21. This is a MERN Stack App built with MongoDB, Express JS, 
 
 You can preview the [page here]("https://gbook-se-app.herokuapp.com/")
 
-![img](/Book-Search-Engine/demo.gif)
+![img](https://raw.githubusercontent.com/Teku-Guy/Book-Search-Engine/main/demo.gif)
 
 
 ## Table of Contents
